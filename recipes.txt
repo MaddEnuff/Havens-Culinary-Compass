@@ -1,0 +1,10 @@
+Pasta|pasta,tomato sauce,cheese|Boil pasta. Add sauce. Top with cheese.|Calories: 400|400
+Salad|lettuce,tomato,cucumber|Chop ingredients. Mix together.|Calories: 150|150
+Peanut Butter Sandwich|bread,peanut butter,jelly|Spread peanut butter and jelly on bread.|Calories: 300|300
+Chicken Stir Fry|chicken,broccoli,soy sauce,garlic|Cook chicken. Add broccoli and soy sauce. Stir fry.|Calories: 500|500
+Omelette|eggs,cheese,ham|Beat eggs. Cook in pan. Add cheese and ham.|Calories: 250|250
+Fruit Smoothie|banana,strawberries,yogurt|Blend all ingredients until smooth.|Calories: 200|200
+Grilled Cheese|bread,butter,cheese|Butter bread. Add cheese. Grill until golden.|Calories: 350|350
+Tacos|tortillas,ground beef,lettuce,cheese|Cook beef. Fill tortillas with beef, lettuce, and cheese.|Calories: 450|450
+Spaghetti Bolognese|spaghetti,ground beef,tomato sauce|Cook spaghetti. Add beef and sauce. Mix together.|Calories: 600|600
+Vegetable Soup|carrots,potatoes,onions,broth|Chop vegetables. Cook in broth until tender.|Calories: 150|150
